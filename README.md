@@ -1,8 +1,8 @@
 # John Campbell
-Senior Revenue Accountant at Nasuni, building finance automation in Boston.
 
-I build the tooling finance teams actually want to use: AR collections automation, cash forecasting, and ERP integrations across NetSuite, Dynamics 365, and SAP S/4HANA.
+## Public projects
 
-**Stack:** Python, SQL, Streamlit, Snowflake, Power Automate, Workato, Salesforce
+- **[RandomForest-Trainer](https://github.com/jcampbell9724/RandomForest-Trainer)** — A local Python and Streamlit workbench for tabular classification and regression, preprocessing, model evaluation, saved-pipeline inspection, and experiment history. The README includes a reproducible synthetic example and focused training checks.
+- **[Markdown-Viewer](https://github.com/jcampbell9724/Markdown-Viewer)** — A static JavaScript Markdown reader with local file import and a formatted preview. The README documents supported syntax, URL restrictions, and parser limits; parser and import-state checks are included.
 
-- LinkedIn: https://www.linkedin.com/in/jmciv
+Both projects can be inspected and run locally. Their documentation distinguishes implemented behavior from limitations.
